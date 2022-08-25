@@ -5,8 +5,8 @@ In this repository, I have created simple and equivalent models in both PyTorch 
 
 ## Table of Contents
 
-#### 1. [CNN using Tensorflow] (https://github.com/JenniferRanjani/tensorflow-vs-pytorch/blob/main/tfCnnMnist.ipynb) 
-#### 2. [CNN using PyTorch] (https://github.com/JenniferRanjani/tensorflow-vs-pytorch/blob/main/torchCnnMnist.ipynb)
-#### 3. [LSTM using Tensorflow]
-#### 4. [LSTM using PyTorch]
+* [CNN using Tensorflow] (https://github.com/JenniferRanjani/tensorflow-vs-pytorch/blob/main/tfCnnMnist.ipynb) 
+* [CNN using PyTorch] (https://github.com/JenniferRanjani/tensorflow-vs-pytorch/blob/main/torchCnnMnist.ipynb)
+* [LSTM using Tensorflow]
+* [LSTM using PyTorch]
 
