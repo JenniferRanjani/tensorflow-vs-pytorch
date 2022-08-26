@@ -1,6 +1,10 @@
 # Tensorflow vs PyTorch
 
-In this repository, I have created simple and equivalent models in both PyTorch and Tensorflow for MNIST dataset. Learners can use this code to understand and convert the basic model between these frameworks. 
+This repository could be refered if you are looking a solution for one of following issues:
+* PyTorch and Tensorflow equivalent models for MNIST dataset, both training and prediction
+* Convert CNN or LSTM models between PyTorch and Tensorflow. 
+* PyTorch equivalent to tensorflow's model.summary()
+* Deciding the LSTM parameters using PyTorch
 
 
 # Table of Contents
